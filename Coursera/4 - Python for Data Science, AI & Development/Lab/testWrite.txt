@@ -1,0 +1,5 @@
+Membership No  Date Joined  Active  
+    82618      2020-1-3     yes   
+    84632      2018-10-20   yes   
+    63741      2016-7-1     yes   
+    81749      2019-4-7     yes   
